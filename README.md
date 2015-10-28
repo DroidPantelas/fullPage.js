@@ -29,7 +29,7 @@ of the plugin as well as [jQuery library](http://jquery.com/) (and the [jQuery U
 <script type="text/javascript" src="jquery.fullPage.js"></script>
 ```
 
-###Required HTML structure
+##Required HTML structure
 Each section will be defined with a `div` containing the `section` class.
 The active section by default will be the first section, which is taken as the home page.
 ```html
